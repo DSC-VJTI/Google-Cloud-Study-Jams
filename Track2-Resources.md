@@ -16,3 +16,9 @@
 
 ### Slides
 - [GCP Data Analytics Services](https://docs.google.com/presentation/d/1585oO1xnklA1_5UXEYN2CHR6L5PdxTsKOOOGcnuLpiM/edit?usp=sharing)
+
+
+## Quest 3 & 4
+
+### Slides
+- [GCP ML/AI Services](https://docs.google.com/presentation/d/1fWIWS9fJSSqwhtlWqTlzBleXYxsMJ_wawucLZYY1uQo/edit?usp=sharing)
