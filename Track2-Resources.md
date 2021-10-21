@@ -16,7 +16,7 @@
 
 
 ### Video Lectures
-- [Explanation of DataPrep, Dataflow and APIs in GCP](https://youtu.be/Lzuj74Rznds)
+- Explanation of DataFlow, DataPrep and APIs in GCP - [LINK](https://youtu.be/Lzuj74Rznds)
 
 ### Slides
 - [GCP Data Analytics Services](https://docs.google.com/presentation/d/1585oO1xnklA1_5UXEYN2CHR6L5PdxTsKOOOGcnuLpiM/edit?usp=sharing)
