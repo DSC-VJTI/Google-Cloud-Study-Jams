@@ -16,7 +16,10 @@
 
 ### Slides
 - [GCP Data Analytics Services](https://docs.google.com/presentation/d/1585oO1xnklA1_5UXEYN2CHR6L5PdxTsKOOOGcnuLpiM/edit?usp=sharing)
+- [Quest 2 | Study Jam](https://docs.google.com/presentation/d/10isQQQUG2YLND_f_7CMxItUac2NqNwBu/edit?usp=sharing&ouid=107611654531410073527&rtpof=true&sd=true)
 
+### Recordings
+- [Explanation of DataPrep, Dataflow and APIs in GCP](https://youtu.be/Lzuj74Rznds)
 
 ## Quest 3 & 4
 
