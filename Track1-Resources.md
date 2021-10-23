@@ -41,8 +41,8 @@
 
 ## Quest 5
 ### Video Lectures
-- Http load balancer with cloud armor - [LINK](https://www.youtube.com/watch?v=lbVjurr-eUc)
-- Identity Aware Proxy, Firewalls, IP and Subnets, Virtual Private Cloud - [LINK](ttps://www.youtube.com/watch?v=-U-9mUlc3sA)
+- HTTP load balancer with cloud armor - [LINK](https://www.youtube.com/watch?v=lbVjurr-eUc)
+- Identity Aware Proxy, Firewalls, IP and Subnets, Virtual Private Cloud - [LINK](https://www.youtube.com/watch?v=-U-9mUlc3sA)
 
 ### Slides
 - [VPC](https://docs.google.com/presentation/d/1shitonImVUaiLgfsRqn4zUTSCWTDiFS0RsrdhdjDhf0/edit?usp=sharing)
